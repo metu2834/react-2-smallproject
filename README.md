@@ -1,12 +1,16 @@
-# React + Vite
+React Accordion & Image Slider
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application showcasing an Accordion and an Image Slider using React.  
+This project demonstrates how to build interactive UI components with React.
 
-Currently, two official plugins are available:
+Features
+- Accordion: Expand and collapse sections with smooth transitions.
+- Image Slider: Navigate through images using next/previous controls.
+- Responsive Design: Works on different screen sizes.
+- Reusable Components: Easily adaptable for other projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+- React: Front-end framework for building UI components.
+- CSS: Styling and layout.
+- JavaScript : Dynamic component behavior.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
